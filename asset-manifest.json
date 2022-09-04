@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/youvideo/static/css/main.8d3bb1a0.css",
-    "main.js": "/youvideo/static/js/main.d35438f3.js",
+    "main.js": "/youvideo/static/js/main.d173e7ce.js",
     "index.html": "/youvideo/index.html",
     "main.8d3bb1a0.css.map": "/youvideo/static/css/main.8d3bb1a0.css.map",
-    "main.d35438f3.js.map": "/youvideo/static/js/main.d35438f3.js.map"
+    "main.d173e7ce.js.map": "/youvideo/static/js/main.d173e7ce.js.map"
   },
   "entrypoints": [
     "static/css/main.8d3bb1a0.css",
-    "static/js/main.d35438f3.js"
+    "static/js/main.d173e7ce.js"
   ]
 }
